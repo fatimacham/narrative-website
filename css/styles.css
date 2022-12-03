@@ -11568,6 +11568,14 @@ hr.divider-light {
 
 /* End of timeline styling from Agency template*/
 
+.box{
+  background: rgb(108, 117, 125);
+  overflow: hidden;
+  max-width: 180px;
+  margin: 0px auto;
+  padding: 5px;
+}
+
 /* Carousel
 ------------------------- */
 
